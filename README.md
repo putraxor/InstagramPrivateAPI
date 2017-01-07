@@ -1,7 +1,3 @@
-InstagramPrivateAPI
-Instagram Private API for Kotlin
-
-
 **What is Instagram Private API?** 
 
 Maybe you've experienced with the official API from Instagram, but you have a lot of trouble to access more complex API. So I decided to make kotlin API wrapper to access private API. So you can directly login with password, follow, unfollow, like, post photo, etc. Instagram gave a good service, please don't use this for spamming
